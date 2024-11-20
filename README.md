@@ -1,12 +1,12 @@
 # Orion SDK for Python
 
-This project contains a python client for interacting with the SolarWinds Orion API
+This project contains a Python client for interacting with the SolarWinds Orion API.
 
 ## API Documentation
 
 For documentation about the SolarWinds Orion API, please see the [wiki](https://github.com/solarwinds/OrionSDK/wiki), [tools](https://github.com/solarwinds/OrionSDK/releases), and sample code (in languages other than Python) in the main [OrionSDK project](https://github.com/solarwinds/OrionSDK).
 
-## Install
+## Installation
 
 ```
 pip install orionsdk
